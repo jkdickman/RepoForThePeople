@@ -1,3 +1,3 @@
 I must keep this school project private in the name of Academic Honesty. But happy to share it privately to interested employers.
 
-My Gitlet program commits  contents of directory to a hidden repository for version control.  Functionality supports commit tree branching, branch mergers, commit checkout and log display. Full status display feature. HUGE project. Built from scratch.
+My Gitlet program commits  contents of directory to a hidden repository for version control.  Functionality supports commit tree branching, branch mergers, commit checkout and log display. Full status display feature. 1500+ line of code Built from scratch.

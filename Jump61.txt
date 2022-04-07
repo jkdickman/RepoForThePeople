@@ -1,0 +1,3 @@
+I must keep this school project private in the name of Academic Honesty. But happy to share it privately to interested employers.
+
+Jump61 – a pure strategy game, involving no element of chance. allowing a user to play against a computer or against another person, or to allow the computer to play itself. Built an AI to make best moves for the  computer player.

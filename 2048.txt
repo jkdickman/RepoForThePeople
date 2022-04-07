@@ -1,0 +1,3 @@
+I must keep this school project private in the name of Academic Honesty. But happy to share it privately to interested employers.
+
+2048 – A sliding puzzle game in which the goal is to combine the same numbered tiles to create a final tile 2048.

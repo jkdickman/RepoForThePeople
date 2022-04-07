@@ -1,0 +1,3 @@
+I must keep this school project private in the name of Academic Honesty. But happy to share it privately to interested employers.
+
+Scheme Interpreter – Syntactic analysis of user input Scheme expressions parse Scheme tokens into program’s internal representation of Scheme expression. Evaluates tokens and prints string representation of result. Very challenging.

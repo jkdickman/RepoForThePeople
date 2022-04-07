@@ -1,0 +1,3 @@
+I must keep this school project private in the name of Academic Honesty. But happy to share it privately to interested employers.
+
+Mastermind – A code guessing game between a computer and human player. The computer generates a secret code and the human player tries to guess the secret code, using the feedback they receive from previous guesses.

@@ -1,0 +1,3 @@
+I must keep this school project private in the name of Academic Honesty. But happy to share it privately to interested employers.
+
+The Enigma – Reciprocal cipher with customizable rotor permutations, alphabet and plugboard settings. Formatted output for increased encryption. Solves the German flaw. Really, really fun.
